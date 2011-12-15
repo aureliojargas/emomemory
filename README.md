@@ -2,7 +2,9 @@
 
 # EmoMemory game source code 
 
-Source files for the EmoMemory game, MIT licensed, released at 2011-12-15.
+*Brazil, 2011-12-15*
+
+Source files for the EmoMemory game, MIT licensed.
 
  * **release** — The .DMG file with the compiled game, this is the official 1.0 release from 2007.
 
@@ -27,6 +29,8 @@ The game is written in AppleScript, using the now deprecated AppleScript Studio 
 The AppleScript Studio was replaced by the AppleScriptObjC framework in Snow Leopard. The game will compile in newer machines if you adapt the code to use this new framework. I don't know how hard can that be.
 
 This code can be a valuable source of information for those who are learning the AppleScript language. Study all the .applescript files.
+
+Note: Info.plist file says "1.0 beta 1", but it's really "1.0". I forgot to update it for the release.
 
 ## About EmoMemory 
 
