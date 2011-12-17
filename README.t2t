@@ -27,6 +27,8 @@ Source files for the EmoMemory game, MIT licensed.
   - **Remember Me?.applescript** — Main script, still using a beta name
 
 
+Note: GitHub is confused with the "?" character in the filename. Here's the correct link for the main script: [Remember Me?.applescript https://github.com/oreio/emomemory/blob/master/xcode/Remember%20Me%3F.applescript]
+
 == About the code ==
 
 This is the original code from the game 1.0 release (April 2007). I haven't touched this code ever since. It used to compile in Xcode 3 running in my Leopard (Mac OS X 10.5) machine.
