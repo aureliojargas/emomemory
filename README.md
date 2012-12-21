@@ -40,7 +40,7 @@ Released in April 2007, this is a memory game for Mac OS X that uses pictures fr
 
 As of now (December 2011), the compiled 1.0 version of the game still runs in OS X Lion. But the Address Book integration is broken.
 
-EmoMemory website: http://aurelio.net/soft/emomemory/
+EmoMemory website: http://aurelio.net/projects/emomemory/
 
 ## About the author 
 
