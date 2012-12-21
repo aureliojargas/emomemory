@@ -20,7 +20,7 @@ Source files for the EmoMemory game, MIT licensed.
   * **Numbers.applescript** — High Score routines
   * **Remember Me?.applescript** — Main script, still using a beta name
 
-Note: GitHub is confused with the "?" character in the filename. Here's the correct link for the main script: [Remember Me?.applescript](https://github.com/oreio/emomemory/blob/master/xcode/Remember%20Me%3F.applescript)
+Note: GitHub is confused with the "?" character in the filename. Here's the correct link for the main script: [Remember Me?.applescript](https://github.com/aureliojargas/emomemory/blob/master/xcode/Remember%20Me%3F.applescript)
 
 ## About the code 
 
