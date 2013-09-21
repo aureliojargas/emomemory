@@ -1,5 +1,4 @@
 
-
 # EmoMemory game source code 
 
 *Brazil, 2011-12-15*
@@ -10,17 +9,16 @@ Source files for the EmoMemory game, MIT licensed.
 
  * **tools** — Helper AppleScript tools used during the game development.
 
-  * **EmoMemory Code Gen.applescript** — Given the user email, generates the Registration Code
-  * **Set Default Scores.applescript** — Reset all the scores from the app
+  * [EmoMemory Code Gen.applescript](https://github.com/aureliojargas/emomemory/blob/master/tools/EmoMemory%20Code%20Gen.applescript) — Given the user email, generates the Registration Code
+  * [Set Default Scores.applescript](https://github.com/aureliojargas/emomemory/blob/master/tools/Set%20Default%20Scores.applescript) — Reset all the scores from the app
 
  * **xcode** — The game source files, created in Xcode 3 in Mac OS X Leopard.
 
-  * **Address Book Handler.applescript** — Address Book.app routines
-  * **List Library.applescript** — Lists (arrays) routines
-  * **Numbers.applescript** — High Score routines
-  * **Remember Me?.applescript** — Main script, still using a beta name
+  * [Address Book Handler.applescript](https://github.com/aureliojargas/emomemory/blob/master/xcode/Address%20Book%20Handler.applescript) — Address Book.app routines
+  * [List Library.applescript](https://github.com/aureliojargas/emomemory/blob/master/xcode/List%20Library.applescript) — Lists (arrays) routines
+  * [Numbers.applescript](https://github.com/aureliojargas/emomemory/blob/master/xcode/Numbers.applescript) — High Score routines
+  * [Remember Me?.applescript](https://github.com/aureliojargas/emomemory/blob/master/xcode/Remember%20Me%3F.applescript) — Main script, still using a beta name
 
-Note: GitHub is confused with the "?" character in the filename. Here's the correct link for the main script: [Remember Me?.applescript](https://github.com/aureliojargas/emomemory/blob/master/xcode/Remember%20Me%3F.applescript)
 
 ## About the code 
 
